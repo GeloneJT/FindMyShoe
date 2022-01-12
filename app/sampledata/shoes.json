@@ -1,0 +1,41 @@
+{
+  "comment": "Sample shoe data",
+  "data": [
+    {
+      "ShoeID": 103,
+      "ShoeType": "Running Shoes",
+      "ShoeBrand": "Nike",
+      "ShoePrice": 270
+    },
+    {
+      "ShoeID": 104,
+      "ShoeType": "Running Shoes",
+      "ShoeBrand": "Nike",
+      "ShoePrice": 280
+    },
+    {
+      "ShoeID": 105,
+      "ShoeType": "Walking Shoes",
+      "ShoeBrand": "Reebok",
+      "ShoePrice": 185
+    },
+    {
+      "ShoeID": 106,
+      "ShoeType": "Running Shoes",
+      "ShoeBrand": "Reebok",
+      "ShoePrice": 165
+    },
+    {
+      "ShoeID": 107,
+      "ShoeType": "Running Shoes",
+      "ShoeBrand": "Reebok",
+      "ShoePrice": 195
+    },
+    {
+      "ShoeID": 103,
+      "ShoeType": "Walking Shoes",
+      "ShoeBrand": "Puma",
+      "ShoePrice": 165
+    }
+  ]
+}
